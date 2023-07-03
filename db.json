@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@storeapp.co",
+      "password": "supersecret"
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "name": "lavandina ayudin 750cc",
+      "category": "limpieza",
+      "unit_price": "500",
+      "quantity": "9",
+      "created_at": "2023-07-03T22:44:41.978Z"
+    },
+    {
+      "id": 4,
+      "name": "lavandina ala 1l",
+      "category": "limpieza",
+      "unit_price": "1500",
+      "quantity": "9",
+      "created_at": "2023-06-25T21:58:40.688Z"
+    },
+    {
+      "name": "asus vivobook i7",
+      "category": "notebooks",
+      "unit_price": "450000",
+      "quantity": "5",
+      "created_at": "2023-06-25T01:46:36.335Z",
+      "id": 5
+    },
+    {
+      "name": "coca-cola 3l",
+      "category": "bebidas",
+      "unit_price": "820",
+      "quantity": "14",
+      "created_at": "2023-07-03T17:46:19.625Z",
+      "id": 6
+    },
+    {
+      "name": "samsung note 20 ultra 5g",
+      "category": "celulares",
+      "unit_price": "250000",
+      "quantity": "8",
+      "created_at": "2023-07-03T17:52:52.920Z",
+      "id": 7
+    },
+    {
+      "name": "manzanas",
+      "category": "frutas",
+      "unit_price": "25",
+      "quantity": "132",
+      "created_at": "2023-07-03T18:01:30.330Z",
+      "id": 8
+    },
+    {
+      "name": "heladera samsung",
+      "category": "electrodomesticos",
+      "unit_price": "650000",
+      "quantity": "3",
+      "created_at": "2023-07-03T18:01:57.295Z",
+      "id": 9
+    },
+    {
+      "name": "galleta oreo 200g",
+      "category": "comestibles",
+      "unit_price": "300",
+      "quantity": "22",
+      "created_at": "2023-07-03T18:02:37.679Z",
+      "id": 10
+    },
+    {
+      "name": "vaso 120ml",
+      "category": "descartables",
+      "unit_price": "15",
+      "quantity": "167",
+      "created_at": "2023-07-03T18:03:05.289Z",
+      "id": 11
+    },
+    {
+      "name": "samsung s22 ultra 5g",
+      "category": "celulares",
+      "unit_price": "350000",
+      "quantity": "5",
+      "created_at": "2023-07-03T18:03:42.089Z",
+      "id": 12
+    },
+    {
+      "name": "bombilla led 25w",
+      "category": "iluminacion",
+      "unit_price": "120",
+      "quantity": "33",
+      "created_at": "2023-07-03T23:07:07.771Z",
+      "id": 13
+    },
+    {
+      "name": "tapa de asado kg",
+      "category": "carnes",
+      "unit_price": "2400",
+      "quantity": "25",
+      "created_at": "2023-07-03T23:07:30.039Z",
+      "id": 14
+    },
+    {
+      "name": "aceite de oliva cocinero",
+      "category": "almacen",
+      "unit_price": "800",
+      "quantity": "24",
+      "created_at": "2023-07-03T23:07:50.276Z",
+      "id": 15
+    }
+  ],
+  "categories": [
+    "limpieza",
+    "comestibles",
+    "descartables",
+    "bebidas",
+    "electrodomesticos",
+    "jardineria",
+    "celulares",
+    "notebooks",
+    "iluminacion",
+    "carnes",
+    "almacen",
+    "frutas",
+    "verduras"
+  ]
+}
